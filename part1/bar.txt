@@ -1,0 +1,17 @@
+1. How many units would you like to buy?
+2. Choose one of the following locations for pickup:
+  a) Beulah Publix
+  b) 9 Mile Neighborhood Walmart
+  c) University Publix
+  d) East Hill Publix
+3. For delivery, provide an address (Only available for Cantonment/Pensacola):
+  a) ______________________________
+4. Choose a preferred pick-up/delivery time:
+  a) 11:00am - 12:00pm
+  b) 12:00pm -  1:00pm
+  c)  1:00pm -  2:00pm
+  d)  2:00pm -  3:00pm
+
+Feel free to text any follow up questions or additional details.
+
+Thanks for enjoying Tulita's tamales!
