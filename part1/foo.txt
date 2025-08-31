@@ -1,10 +1,7 @@
-Follow the instructions in the Google Slide
-
-Make some changes to this file.
-
-Maybe fill this out?
-
-* The best operating system is ______
-* The best text editor is ______
-* The best kind of phone is _______
-* The best superhero is ___________
+SOME THINGS TO KNOW
+-------------------
+* The best superhero is Mood Man
+* The best operating system is NixOS
+* The best text editor is Helix
+* The best kind of phone is not real yet (Daylight Phone)
+* The best kind of pickle is Wickle Baby Dill
