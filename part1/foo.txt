@@ -1,9 +1,5 @@
-Follow the instructions in the Google Slide
-
-Make some changes to this file.
-
-Maybe fill this out?
-
+SOME THINGS TO KNOW
+-------------------
 * The best superhero is Mood Man
 * The best operating system is NixOS
 * The best text editor is Helix
