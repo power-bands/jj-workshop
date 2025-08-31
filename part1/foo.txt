@@ -1,7 +1,13 @@
+ ~~~~~~~~~~~~~~~~~~~
 SOME THINGS TO KNOW
--------------------
-* The best superhero is Mood Man
-* The best operating system is NixOS
-* The best text editor is Helix
-* The best kind of phone is not real yet (Daylight Phone)
-* The best kind of pickle is Wickle Baby Dill
+ ~~~~~~~~~~~~~~~~~~~
+ 
+ The best...
+ * Superhero is Mood Man
+ * Operating System is NixOS
+ * Text Eeditor is Helix
+ * Phone is not real yet (Daylight Phone)
+ * The best kind of pickle is Wickle Baby Dill
+ * Psychology is Ecological Dynamics
+ 
+ ~~~~~~ fin ~~~~~~~~
